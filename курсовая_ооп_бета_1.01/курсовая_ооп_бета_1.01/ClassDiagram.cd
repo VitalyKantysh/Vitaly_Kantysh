@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Company">
+    <Position X="7.25" Y="1.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAjABAAAgAAIAAAAAQEQAAgABAAIBARAEAg=</HashCode>
+      <FileName>Company.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="junior">
+    <Position X="8.75" Y="11" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAQAIAAAABAAAAAAAAAAiAAAAAACAAAAAAAgAAAAA=</HashCode>
+      <FileName>junior.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="middle">
+    <Position X="11.5" Y="11" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAUBAAAAABAAAAAAAAAAAAAAAAABAAAAAAAgAAAQA=</HashCode>
+      <FileName>middle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="senior">
+    <Position X="6" Y="11" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAQAABAAABAAAAAAAAAAAAGAAAAAAAAAAAAgAAQAA=</HashCode>
+      <FileName>senior.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Supervisors">
+    <Position X="4.25" Y="6.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAQEAAAAAEAAAAAAADAgIQBAEAAAAAAAA=</HashCode>
+      <FileName>Supervisors.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="teamlid">
+    <Position X="3" Y="11" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAQAQAAAAAABAAAAAAAAAAAAAAAAUAAAAAAAAgEQAAA=</HashCode>
+      <FileName>teamlid.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Workers">
+    <Position X="10" Y="6.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAARAAAAACCIAAMAAgAgAAAAA=</HashCode>
+      <FileName>Workers.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="List&lt;T&gt;">
+    <Position X="12.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAGTGAACAAIAQhAAABAAQAAEAAAgABAAIAAAEQAo=</HashCode>
+      <FileName>List.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interface&lt;T&gt;">
+    <Position X="10.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAgQAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Line&lt;T&gt;">
+    <Position X="10.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAABAAAIAAAA=</HashCode>
+      <FileName>List.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9.22" />
+</ClassDiagram>
